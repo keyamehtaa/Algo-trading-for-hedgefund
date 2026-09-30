@@ -1,0 +1,7 @@
+{
+    "strategy": "Moving Average Crossover",
+    "fast_ma": 5,
+    "slow_ma": 15,
+    "timeframe": "5-minute",
+    "execution": "next candle"
+}
